@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\ADMIN\Desktop\quiz_master_23f1001037\.venv
+set VIRTUAL_ENV=C:\Users\ADMIN\Desktop\23f1001037-git\quiz_master_23f100137\.venv
 
 if not defined PROMPT set PROMPT=$P$G
 
